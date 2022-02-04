@@ -53,7 +53,6 @@ public class SummaryPage {
 	public void validateRentApp() throws IOException{
 	
 		System.out.println("Getting 404 Error: defect");
-	
 	}
 	
 	public void validateErrormsg() throws IOException{
